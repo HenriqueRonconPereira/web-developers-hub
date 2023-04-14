@@ -71,6 +71,7 @@ header, section, footer{
 }
 #imagem-perfil{
     width: 10%;
+    height: 17.5vh;
     max-width: 600px;
     border-radius: 50%;
 }
